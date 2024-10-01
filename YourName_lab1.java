@@ -1,9 +1,9 @@
 /*************************************************************************
  *  Fishy cake
  *  Lab 1
- *  Name: Brandon Foster
- *  Compilation:  javac BrandonFoster_lab1.java
- *  Execution:    java BrandonFoster_lab1
+ *  Name: 
+ *  Compilation:  javac YourName_lab1.java
+ *  Execution:    java YourName_lab1
  *  
  *  Various examples of IEEE 754 binary floating point calculations.
  *
@@ -11,7 +11,7 @@
  *
  *************************************************************************/
 
-public class BrandonFoster_lab1 { 
+public class YourName_lab1 { 
 
     public static void main(String[] args) { 
         boolean b;
